@@ -1,0 +1,1 @@
+This is a repository of solutions for bash submitted to exercism.
